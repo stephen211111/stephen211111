@@ -13,11 +13,8 @@ Currently completing a BSc in General Engineering (Future Energy specialization)
 | [terminus-energy-fess](https://github.com/stephen211111/terminus-energy-fess) | Core engineering work — magnetic bearings, control systems, PCB design, simulation | Active |
 | [bsc-thesis-magnetic-bearings](https://github.com/stephen211111/bsc-thesis-magnetic-bearings) | BSc thesis: hybrid AMB+PMB system for FESS, DTU | Active |
 | [fess-dk1-market-model](https://github.com/stephen211111/fess-dk1-market-model) | Revenue and market model for FESS in DK1/DK2 energy markets | WIP |
-| [metal-additive-manufacturing-patent](https://github.com/stephen211111/metal-additive-manufacturing-patent) | Filed patent: device for additive manufacturing of 3D objects from metals | Published |
-| [laser-induced-graphene-supercapacitors](https://github.com/stephen211111/laser-induced-graphene-supercapacitors) | LIG supercapacitors from Kapton tape — early experimental work | Archive |
-| [120w-blue-diode-laser-array](https://github.com/stephen211111/120w-blue-diode-laser-array) | 120W blue diode laser array build | Archive |
-| [pvd-chamber](https://github.com/stephen211111/pvd-chamber) | Physical vapor deposition chamber (i1 + i2) | Archive |
-| [sls-metal-3d-printer](https://github.com/stephen211111/sls-metal-3d-printer) | SLS metal 3D printer — incomplete build | Archive |
+| [patents](https://github.com/stephen211111/patents) | Filed patent: device for additive manufacturing of 3D objects from metals | Published |
+| [teenage-projects](https://github.com/stephen211111/teenage-projects) | Laser array, SLS printer, PVD chamber, LIG supercapacitors — pre-university builds | Archive |
 
 ---
 
