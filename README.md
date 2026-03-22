@@ -13,6 +13,7 @@ Currently completing a BSc in General Engineering (Future Energy specialization)
 | [terminus-energy-fess](https://github.com/stephen211111/terminus-energy-fess) | Core engineering work — magnetic bearings, control systems, PCB design, simulation | Active |
 | [bsc-thesis-magnetic-bearings](https://github.com/stephen211111/bsc-thesis-magnetic-bearings) | BSc thesis: hybrid AMB+PMB system for FESS, DTU | Active |
 | [fess-dk1-market-model](https://github.com/stephen211111/fess-dk1-market-model) | Revenue and market model for FESS in DK1/DK2 energy markets | WIP |
+| [openslm](https://github.com/stephen211111/openslm) | Open source slicer for SLM printers — DTU special course on scan strategies for metal AM | Active |
 | [patents](https://github.com/stephen211111/patents) | Filed patent: device for additive manufacturing of 3D objects from metals | Published |
 | [teenage-projects](https://github.com/stephen211111/teenage-projects) | Laser array, SLS printer, PVD chamber, LIG supercapacitors — pre-university builds | Archive |
 
